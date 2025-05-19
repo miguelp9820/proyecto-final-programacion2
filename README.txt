@@ -2,7 +2,7 @@
 PROYECTO FINAL - PROGRAMACIÓN II
 =========================================
 
-Nombre del estudiante: Miguel Ángel Peguero Mena  
+Nombre del estudiante: Miguel Angel Peguero Mena  
 Matrícula: 100419333  
 Nombre del proyecto: Sistema CRUD y Reportes con base de datos Sakila  
 Materia: Lenguaje de Programación II  
@@ -56,6 +56,7 @@ ESTRUCTURA DE LA ENTREGA
 ├── proyecto_final_uasd.jar            # Ejecutable del sistema
 ├── config.properties                  # Archivo con configuración de conexión
 ├── documentation/                     # Carpeta con documentación generada por Javadoc
+│   └── index.html                     # Archivo principal para ver la documentación
 ├── uml_diagrama.png                   # Imagen con el diagrama UML
 ├── src/                               # Código fuente (opcional si el profe lo pide)
 └── README.txt                         # Este documento
@@ -63,6 +64,6 @@ ESTRUCTURA DE LA ENTREGA
 -----------------------------------------
 AUTOR
 -----------------------------------------
-Nombre: Miguel Ángel Peguero Mena  
+Nombre: Miguel Angel Peguero Mena  
 Matrícula: 100419333
-Correo Electronico: miguelpeguero468@gmail.com
+Correo: miguelpeguero468@gmail.com
